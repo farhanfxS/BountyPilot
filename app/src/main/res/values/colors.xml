@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bp_background">#020602</color>
+    <color name="bp_surface">#0A100A</color>
+    <color name="bp_surface_2">#101810</color>
+    <color name="bp_green">#39FF14</color>
+    <color name="bp_white">#F5F5F5</color>
+    <color name="bp_gray">#8A948A</color>
+</resources>
